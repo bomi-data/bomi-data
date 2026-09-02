@@ -29,17 +29,3 @@
 | **Advanced RAG Optimization** | `LangChain`, `HyDE`, `Re-ranker` | 하이브리드 검색 및 Re-ranker 기술을 활용한 검색 정확도 개선 프로젝트 |
 | **LLM Web Application** | `Streamlit`, `PyTorch`, `AWS` | Streamlit 기반 나만의 생성형 AI 웹 인터페이스 구현 및 AWS 배포 |
 
-*(※ 위 프로젝트 목록은 실제 본인이 진행하신 메인 레포지토리 링크로 연결해 주세요.)*
-
----
-
-### 📊 GitHub Stats
-
-![Bomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bomi-data&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bomi-data&layout=compact&theme=radial)
-
----
-
-### 📫 Contact & Socials
-- **LinkedIn**: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com)
-- **Email**: your-email@domain.com
