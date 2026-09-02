@@ -1,15 +1,15 @@
 # Hi there, I'm Bomi! 👋
 
-> **Data & Generative AI Engineering Enthusiast**  
-> 데이터를 바탕으로 문제의 본질을 정의하고, **Agentic AI & Advanced RAG 시스템**을 구축하여 실질적인 가치를 만들어냅니다.
+> **Nursing Student & Digital Healthcare Enthusiast**  
+> 간호학 전공 지식과 AI/데이터 기술을 융합하여, **디지털 헬스케어 및 의료 현장의 문제를 해결하는 AI 시스템**을 구축합니다.
 
 ---
 
 ### 💡 About Me
-- 🎓 **AI BootCamp Participant**: 인공지능/생성형 AI 전문 양성 부트캠프 수료 (CS, ML/DL, Generative AI)
-- 🤖 **Focusing on**: LangChain/LangGraph 기반 AI Agent 구축, Advanced RAG 최적화, MCP(Model Context Protocol) 시스템 연동
-- 🛠️ **Infrastructure**: Docker & AWS 환경을 활용한 LLM 및 데이터 애플리케이션 서비스 배포
-- ✍️ **Blog & Activity**: 학습한 내용을 정리하고 실습 코드를 문서화하며 꾸준히 성장하고 있습니다.
+- 🩺 **Background**: 간호학 전공 (재학 중) | 임상 도메인 이해도를 바탕으로 한 데이터 분석 및 모델링
+- 🤖 **Focus Area**: AI Agent 기반 의료 보조 시스템, 헬스케어 특화 Advanced RAG, 의료 데이터 처리
+- 💻 **Tech Stack**: Python, PyTorch, LangChain, LangGraph, FastMCP, Docker, AWS
+- 📂 **Projects**: 간호 및 의료 도메인 문제 해결을 중심으로 진행한 프로젝트를 기록하고 있습니다.
 
 ---
 
