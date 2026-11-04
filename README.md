@@ -36,7 +36,7 @@ MedQuAD 의료 QA 데이터를 활용하여 Llama-3.2-1B-Instruct 모델에 LoRA
 * Fine-tuning 모델 저장 및 추론 파이프라인 구현
 * Baseline 모델과 Fine-tuned 모델의 응답 비교를 위한 평가 코드 구축
 
-[View Repository](https://github.com/bomi-data/healthcare-qa-finetuning)
+[View Repository](https://github.com/bomi-data/medguard-ai)
 
 
 #### 🥗 Nutrition Care Navigator
