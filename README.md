@@ -23,6 +23,22 @@
 
 ### 🚀 Key Projects
 
+#### 🩺 Healthcare QA Fine-tuning
+
+**의료 QA 데이터 기반 Llama 3.2 모델 LoRA Fine-tuning**
+
+MedQuAD 의료 QA 데이터를 활용하여 Llama-3.2-1B-Instruct 모델에 LoRA 기반 Supervised Fine-Tuning(SFT)을 적용한 프로젝트입니다.
+
+* MedQuAD 의료 QA 데이터 수집 및 전처리
+* 데이터 품질 검사 및 Train / Validation / Test 분할
+* Llama Chat Template 기반 SFT 데이터셋 구축
+* LoRA 및 4-bit Quantization 기반 소규모 모델 Fine-tuning
+* Fine-tuning 모델 저장 및 추론 파이프라인 구현
+* Baseline 모델과 Fine-tuned 모델의 응답 비교를 위한 평가 코드 구축
+
+[View Repository](https://github.com/bomi-data/healthcare-qa-finetuning)
+
+
 #### 🥗 Nutrition Care Navigator
 **지역사회 영양돌봄 서비스 탐색 및 연계를 위한 서비스**
 
