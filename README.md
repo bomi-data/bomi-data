@@ -23,18 +23,19 @@
 
 ### 🚀 Key Projects
 
-#### 🩺 Healthcare QA Fine-tuning
+#### 💊 MEDGUARD AI
 
-**의료 QA 데이터 기반 Llama 3.2 모델 LoRA Fine-tuning**
+**한국 DUR 기반 다제약물 안전성 Screening 및 근거 기반 의료 AI 시스템**
 
-MedQuAD 의료 QA 데이터를 활용하여 Llama-3.2-1B-Instruct 모델에 LoRA 기반 Supervised Fine-Tuning(SFT)을 적용한 프로젝트입니다.
+식품의약품안전처의 DUR 규칙 데이터를 활용해 다제약물 복용 시 주의가 필요한 항목을 탐지하고, 의약품 허가정보를 근거로 설명을 생성하는 연구용 프로토타입입니다.
 
-* MedQuAD 의료 QA 데이터 수집 및 전처리
-* 데이터 품질 검사 및 Train / Validation / Test 분할
-* Llama Chat Template 기반 SFT 데이터셋 구축
-* LoRA 및 4-bit Quantization 기반 소규모 모델 Fine-tuning
-* Fine-tuning 모델 저장 및 추론 파이프라인 구현
-* Baseline 모델과 Fine-tuned 모델의 응답 비교를 위한 평가 코드 구축
+* **Structured Screening** 기반 병용금기·노인주의·효능군 중복 탐지
+* **Hybrid RAG**(BM25 + Dense Retrieval)를 활용한 의약품 허가정보 검색
+* **LLM 기반 근거 설명 생성** 및 Guardrail을 통한 출력 검증
+* **Streamlit UI** 구현 및 Screening·RAG·LLM 통합 테스트
+* 검색 성능, 근거 충실도, 출력 안전성 평가 및 한계 분석
+
+※ 연구·포트폴리오용 프로토타입으로, 임상적 안전성은 검증되지 않았습니다.
 
 [View Repository](https://github.com/bomi-data/medguard-ai)
 
